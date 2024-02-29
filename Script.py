@@ -14,8 +14,10 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
-    SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+    CHANNEL_TXT = """<b>NOTE:</b>-
+ᴊᴏɪɴ ᴛʜɪs ᴄʜᴀɴɴᴇʟ ◉› :<a href=https://t.me/+ey8Q38ShP4ZjYzll>𝐁𝐀𝐂𝐊 𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+
+ʙᴇᴄᴀᴜsᴇ ɪɴ ᴄᴀsᴇ ɪғ ᴍʏ ᴀɴʏ ᴄʜᴀɴɴᴇʟ ɢᴇᴛ ʙᴀɴɴᴇᴅ ᴛʜᴇɴ ᴛʜᴇ ɴᴇᴡ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ ᴡɪʟʟ ʙᴇ ᴘʀᴏᴠɪᴅᴇᴅ ʜᴇʀᴇ
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
 
