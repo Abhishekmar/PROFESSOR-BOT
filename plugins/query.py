@@ -459,7 +459,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('Update Channel', 'source')
+            InlineKeyboardButton('Update Channel', 'https://t.me/Movilious')
             ],[
             InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')          
